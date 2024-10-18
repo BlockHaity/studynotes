@@ -8,23 +8,23 @@
         "type": "split",
         "children": [
           {
-            "id": "aa7149d76a4542a5",
+            "id": "760eb7c4e674ddf6",
             "type": "split",
             "dimension": 66.37426900584795,
             "children": [
               {
-                "id": "e0a6a2f56cb12681",
+                "id": "787abb718f30f90b",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "6d7a064e1da5ea47",
+                    "id": "903259a7e5707e80",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "学科学习笔记/物理/必修一/一，二章：质点，路程，位移与加速度.md",
                         "mode": "source",
-                        "source": false
+                        "source": true
                       },
                       "icon": "lucide-file",
                       "title": "一，二章：质点，路程，位移与加速度"
@@ -33,11 +33,11 @@
                 ]
               },
               {
-                "id": "787abb718f30f90b",
+                "id": "33d384bfd40c78bb",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "903259a7e5707e80",
+                    "id": "9dd8b4460e1f5114",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -98,8 +98,8 @@
                           },
                           "serial": {
                             "columns": 110,
-                            "data": "\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;49m\u001b[0m                                                                                                                        \u001b[30m\u001b[32;40m ✔ \u001b[37m\u001b[30;47m 03:01:36  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m serve \u001b[35;4m./--------------------------------------------------------------------------------------------\u001b[1D\u001b[1X\u001b[A\u001b[19C\u001b[91X\u001b[19D\u001b[B\u001b[55C\u001b[38;5;242;24m─╯\r\n\u001b[0m(node:9528) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\r\nServing \u001b[32m/home/blockhaity/文档/学习笔记\u001b[0m now.\r\nListening at \u001b[32mhttp://localhost:3000\u001b[2B\u001b[34D\u001b[0m",
-                            "rows": 13
+                            "data": "\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;49m\u001b[0m             \r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 \u001b[33;49m\u001b[0m                                                \u001b[30m\u001b[32;40m ✔ \u001b[37m\u001b[30;47m 03:42:37  \u001b[37;49m\u001b[38;5;242m─╮\r\n╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 \u001b[33;49m\u001b[0m                                       \r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 \u001b[33;49m\u001b[0m                                                \u001b[30m\u001b[32;40m ✔ \u001b[37m\u001b[30;47m 03:42:37  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m serve \u001b[35;4m./\u001b[88C\u001b[38;5;242;24m─╯\r\n\u001b[0m(node:18883) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\r\nServing \u001b[32m/home/blockhaity/文档/学习笔记\u001b[0m now.\r\nListening at \u001b[32mhttp://localhost:3000\r\n\r\n\u001b[0m^C\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                         \u001b[31m\u001b[33;41m INT ✘ \u001b[37m\u001b[30;47m 22:00:57  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m serve \u001b[35;4m./\u001b[88C\u001b[38;5;242;24m─╯\r\n\u001b[0m(node:34771) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\r\nServing \u001b[32m/home/blockhaity/文档/学习笔记\u001b[0m now.\r\nListening at \u001b[32mhttp://localhost:3000\r\n\r\n\u001b[0m^C\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                 \u001b[31m\u001b[33;41m INT ✘ \u001b[30;43m 56s  \u001b[37m\u001b[30;47m 22:02:25  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m docsify         \u001b[88C\u001b[38;5;242m─╯\r\n\u001b[39;1m例子: docsify <init|serve> <path>\r\n\r\n\u001b[32;22mCommands:\r\n\u001b[0m  docsify init [path]      \u001b[90m创建 docs\u001b[0m                                [aliases: i]\r\n  docsify serve [path]     \u001b[90m本地预览\u001b[0m                                 [aliases: s]\r\n  docsify start <path>     \u001b[90mServer for SSR\r\n\u001b[0m  docsify generate <path>  \u001b[90mdocsify 的生成器\u001b[0m                         [aliases: g]\r\n\r\n\u001b[32m全局选项\r\n\u001b[0m  --help, -h     \u001b[90m帮助\u001b[0m                                                     [布尔]\r\n  --version, -v  \u001b[90m当前版本号\u001b[0m                                               [布尔]\r\n\r\n\u001b[90m文档地址:\r\n\u001b[0m  \u001b[90mhttps://docsifyjs.github.io/docsify\r\n\u001b[0m  \u001b[90mhttps://docsifyjs.github.io/docsify-cli\r\n\r\n开发:\r\n\u001b[0m  \u001b[90mhttps://github.com/docsifyjs/docsify-cli/blob/master/CONTRIBUTING.md\r\n\r\n\r\n\u001b[31m[ERROR] 0 arguments passed. Please specify a command\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:02:30  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mnpm\u001b[0m \u001b[33mrun\u001b[0m build       \u001b[84C\u001b[38;5;242m─╯\r\n\u001b[39;1mnpm\u001b[0m \u001b[31merror\u001b[0m Missing script: \"build\"\r\n\u001b[1mnpm\u001b[0m \u001b[31merror\r\n\u001b[39;1mnpm\u001b[0m \u001b[31merror\u001b[0m To see a list of scripts, run:\r\n\u001b[1mnpm\u001b[0m \u001b[31merror\u001b[0m   npm run\r\n\u001b[1mnpm\u001b[0m \u001b[31merror\u001b[0m A complete log of this run can be found in: /home/blockhaity/.npm/_logs/2024-10-18T14_02_43_302Z-debug-0.log\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:02:43  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mnpm\u001b[0m \u001b[33mrun\u001b[0m generate\u001b[88C\u001b[38;5;242m─╯\r\n\u001b[39;1mnpm\u001b[0m \u001b[31merror\u001b[0m Missing script: \"generate\"\r\n\u001b[1mnpm\u001b[0m \u001b[31merror\r\n\u001b[39;1mnpm\u001b[0m \u001b[31merror\u001b[0m To see a list of scripts, run:\r\n\u001b[1mnpm\u001b[0m \u001b[31merror\u001b[0m   npm run\r\n\u001b[1mnpm\u001b[0m \u001b[31merror\u001b[0m A complete log of this run can be found in: /home/blockhaity/.npm/_logs/2024-10-18T14_03_01_380Z-debug-0.log\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:03:01  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m generate\u001b[88C\u001b[38;5;242m─╯\r\n\u001b[0m/usr/lib/node_modules/docsify-cli/node_modules/yargs/build/lib/yargs.js:1132\r\n                throw err;\r\n                ^\r\n\r\nTypeError: Cannot read properties of undefined (reading 'indexOf')\r\n    at Y18N.__n (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/node_modules/\u001b[4my18n\u001b[0m/index.js:155:12)\r\n    at Object.positionalCount (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/node_modules/\u001b[4myargs\u001b[0m/build/lib/validation.js:52:24)\r\n    at populatePositionals (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/node_modules/\u001b[4myargs\u001b[0m/build/lib/command.js:269:20)\r\n    at Object.runCommand (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/node_modules/\u001b[4myargs\u001b[0m/build/lib/command.js:174:29)\r\n    at Object.parseArgs [as _parseArgs] (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/node_modules/\u001b[4myargs\u001b[0m/build/lib/yargs.js:1043:55)\r\n    at Object.get [as argv] (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/node_modules/\u001b[4myargs\u001b[0m/build/lib/yargs.js:986:25)\r\n    at Object.<anonymous> (/usr/lib/node_modules/\u001b[4mdocsify-cli\u001b[0m/bin/docsify:154:41)\r\n\u001b[90m    at Module._compile (node:internal/modules/cjs/loader:1546:14)\r\n    at Object..js (node:internal/modules/cjs/loader:1689:10)\r\n    at Module.load (node:internal/modules/cjs/loader:1318:32)\r\n\r\n\u001b[0mNode.js v22.10.0\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:03:11  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m generate \u001b[36m--help\u001b[81C\u001b[38;5;242m─╯\r\n\u001b[0mdocsify generate <path>\r\n\r\n\u001b[90mdocsify 的生成器\r\n\r\n\u001b[32m全局选项\r\n\u001b[0m  --help, -h     \u001b[90m帮助\u001b[0m                                                     [布尔]\r\n  --version, -v  \u001b[90m当前版本号\u001b[0m                                               [布尔]\r\n\r\n\u001b[32mOptions:\r\n\u001b[0m  --sidebar, -s  \u001b[90mgen.sidebar\u001b[0m                    [字符串] [默认值: \"_sidebar.md\"]\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                             \u001b[30m\u001b[32;40m ✔ \u001b[37m\u001b[30;47m 22:03:21  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m generate \u001b[35;4m./\u001b[0m    \u001b[81C\u001b[38;5;242m─╯\r\n\u001b[31mThe sidebar file '_sidebar.md' already exists.\r\n\u001b[0m(node:35058) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:03:33  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m generate ./output\u001b[79C\u001b[38;5;242m─╯\r\n\u001b[31m/home/blockhaity/文档/学习笔记/output directory does not exist.\r\n\u001b[0m(node:35081) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                             \u001b[30m\u001b[32;40m ✔ \u001b[37m\u001b[30;47m 22:03:44  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m generate \u001b[35;4m./\u001b[0m      \u001b[79C\u001b[38;5;242m─╯\r\n\u001b[31mThe sidebar file '_sidebar.md' already exists.\r\n\u001b[0m(node:35103) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:03:49  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m generate \u001b[35;4m./\u001b[85C\u001b[38;5;242;24m─╯\r\n\u001b[31mThe sidebar file '_sidebar.md' already exists.\r\n\u001b[0m(node:35113) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;43m\u001b[30m   main !3 ?1 \u001b[33;49m\u001b[0m                                           \u001b[31m\u001b[33;41m 1 ✘ \u001b[37m\u001b[30;47m 22:03:55  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[104C\u001b[38;5;242m─╯\u001b[106D\u001b[0m",
+                            "rows": 15
                           }
                         }
                       },
@@ -273,22 +273,33 @@
   "active": "26cf86b5c08e15e9",
   "lastOpenFiles": [
     "学科学习笔记/物理/必修一/一，二章：质点，路程，位移与加速度.md",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/重要公式6.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/重要公式5.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/重要公式4.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/重要公式3.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/重要公式2.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/重要公式1.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/平均速度公式.png",
+    "Pasted image 20241018212350.png",
+    "Pasted image 20241018212311.png",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度/路程公式1.png",
+    "img.md",
+    "img/物理/必修一/一，二章：质点，路程，位移与加速度",
+    "img/物理/必修一/新建文件夹",
+    "img/物理/必修一",
+    "img/物理/新建文件夹",
+    "img/物理",
+    "img/新建文件夹",
+    "img",
+    "新建文件夹",
     "2024-10-19.md",
     "未命名.canvas",
     "_sidebar.md",
     "学科学习笔记/物理/必修一",
     "README.md",
     "学科学习笔记/物理",
-    "学科学习笔记",
-    "index.html",
-    "package-lock.json",
-    "package.json",
     "node_modules/prismjs/README.md",
     "node_modules/prismjs/CHANGELOG.md",
-    "node_modules/prismjs/package.json",
-    "node_modules/prismjs/components.json",
-    "node_modules/prismjs/prism.js",
-    "node_modules/prismjs/components/prism-zig.min.js",
     "node_modules/docsify/README.md",
     "node_modules/docsify/HISTORY.md",
     "node_modules/docsify/CHANGELOG.md",
