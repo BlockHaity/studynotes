@@ -1,0 +1,10 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "foldHeading": false,
+  "foldIndent": true,
+  "promptDelete": false,
+  "showInlineTitle": false
+}

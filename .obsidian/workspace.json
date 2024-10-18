@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "7d2bf85fbdbf7853",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc67febb0aaacad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "aa7149d76a4542a5",
+            "type": "split",
+            "dimension": 66.37426900584795,
+            "children": [
+              {
+                "id": "e0a6a2f56cb12681",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6d7a064e1da5ea47",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "学科学习笔记/物理/必修一/一，二章：质点，路程，位移与加速度.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "一，二章：质点，路程，位移与加速度"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "787abb718f30f90b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "903259a7e5707e80",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "学科学习笔记/物理/必修一/一，二章：质点，路程，位移与加速度.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "一，二章：质点，路程，位移与加速度"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "1fc8b4bd9732e34b",
+            "type": "split",
+            "dimension": 33.62573099415205,
+            "children": [
+              {
+                "id": "1fa8055e492d5722",
+                "type": "tabs",
+                "dimension": 66.49484536082474,
+                "children": [
+                  {
+                    "id": "26cf86b5c08e15e9",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "terminal:terminal",
+                      "state": {
+                        "terminal:terminal": {
+                          "cwd": "/home/blockhaity/文档/学习笔记",
+                          "focus": false,
+                          "profile": {
+                            "args": [],
+                            "executable": "/bin/zsh",
+                            "name": "zsh",
+                            "platforms": {
+                              "darwin": false,
+                              "linux": true
+                            },
+                            "pythonExecutable": "python3",
+                            "restoreHistory": true,
+                            "successExitCodes": [
+                              "0",
+                              "SIGINT",
+                              "SIGTERM"
+                            ],
+                            "terminalOptions": {
+                              "documentOverride": null
+                            },
+                            "type": "integrated",
+                            "useWin32Conhost": false
+                          },
+                          "serial": {
+                            "columns": 110,
+                            "data": "\u001b[38;5;242m╭─\u001b[37m\u001b[38;5;232;47m  \u001b[37;44m\u001b[38;5;254m  \u001b[38;5;255;1m~\u001b[38;5;254;22m/文档/\u001b[38;5;255;1m学习笔记\u001b[38;5;254;22m \u001b[34;49m\u001b[0m                                                                                                                        \u001b[30m\u001b[32;40m ✔ \u001b[37m\u001b[30;47m 03:01:36  \u001b[37;49m\u001b[38;5;242m─╮\r\n╰─\u001b[0m \u001b[32mdocsify\u001b[0m serve \u001b[35;4m./--------------------------------------------------------------------------------------------\u001b[1D\u001b[1X\u001b[A\u001b[19C\u001b[91X\u001b[19D\u001b[B\u001b[55C\u001b[38;5;242;24m─╯\r\n\u001b[0m(node:9528) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\r\n(Use `node --trace-deprecation ...` to show where the warning was created)\r\n\r\nServing \u001b[32m/home/blockhaity/文档/学习笔记\u001b[0m now.\r\nListening at \u001b[32mhttp://localhost:3000\u001b[2B\u001b[34D\u001b[0m",
+                            "rows": 13
+                          }
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "terminal",
+                      "title": "终端：zsh"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8f828a7d6be60473",
+                "type": "tabs",
+                "dimension": 33.50515463917525,
+                "children": [
+                  {
+                    "id": "d3289d9c9ca71a63",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "关系图谱"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36827ad125facd80",
+    "type": "split",
+    "children": [
+      {
+        "id": "16649230190c1cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13e63d63f8491d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a6dc31f56f4719b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "94d203ef025e434e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e57dc5fa27ff9b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "9241894646263ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4f305eaa5721fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "971bc8e14012d350",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b675fc51a9fb357b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5ebc4cc47b1ceda8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "26cf86b5c08e15e9",
+  "lastOpenFiles": [
+    "学科学习笔记/物理/必修一/一，二章：质点，路程，位移与加速度.md",
+    "2024-10-19.md",
+    "未命名.canvas",
+    "_sidebar.md",
+    "学科学习笔记/物理/必修一",
+    "README.md",
+    "学科学习笔记/物理",
+    "学科学习笔记",
+    "index.html",
+    "package-lock.json",
+    "package.json",
+    "node_modules/prismjs/README.md",
+    "node_modules/prismjs/CHANGELOG.md",
+    "node_modules/prismjs/package.json",
+    "node_modules/prismjs/components.json",
+    "node_modules/prismjs/prism.js",
+    "node_modules/prismjs/components/prism-zig.min.js",
+    "node_modules/docsify/README.md",
+    "node_modules/docsify/HISTORY.md",
+    "node_modules/docsify/CHANGELOG.md",
+    "node_modules/marked/README.md",
+    "node_modules/marked/LICENSE.md",
+    "node_modules/medium-zoom/README.md",
+    "node_modules/tinydate/readme.md",
+    "node_modules/medium-zoom/CHANGELOG.md",
+    "node_modules/tweezer.js/README.md",
+    "node_modules/opencollective-postinstall/README.md",
+    "node_modules/strip-indent/readme.md",
+    "node_modules/min-indent/readme.md",
+    "高中物理必修一.md",
+    "欢迎.md"
+  ]
+}
