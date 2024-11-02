@@ -1,0 +1,9 @@
+{
+  "githubToken": "ghp_BhaiCGIxs7C5dp0eGm883MRkly930M118Mmp",
+  "embedIssues": true,
+  "embedFiles": true,
+  "labelDisplay": "preview",
+  "autoOpenThreshold": 10,
+  "dateFormat": "MMMM D, YYYY",
+  "showTotalComments": true
+}

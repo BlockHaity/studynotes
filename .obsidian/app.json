@@ -6,5 +6,6 @@
   "foldHeading": false,
   "foldIndent": true,
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

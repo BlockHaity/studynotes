@@ -1,0 +1,34 @@
+name: push-to-blog
+
+on:
+  push:
+    branches:
+      - main  # 触发条件，当 main 分支有 push 事件时触发
+
+jobs:
+  push-to-blog:
+    runs-on: ubuntu-latest 
+
+    steps:
+      - name: Clone Repo
+        run: | 
+          git clone https://github.com/blockhaity/clockhaity.github.io.git
+          git clone https://github.com/blockhaity/studynotes.git
+      
+      - name: Copy Files
+        run:  |
+          mkdir ./blockhaity.github.io/source/studynotes
+          cp -rf ./studynotes/* ./blockhaity.github.io/source/studynotes
+          rm -rf ./blockhaity.github.io/source/studynotes/.git
+          rm -rf ./blockhaity.github.io/source/studynotes/.github
+          rm -rf ./blockhaity.github.io/source/studynotes/img
+          cp -rf ./studynotes/img/* ./blockhaity.github.io/source/img
+      
+      - name: Push to Blog
+        run: |
+          cd ./blockhaity.github.io
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]" 
+          git add .
+          git commit -m "update blog"
+          git push origin main
