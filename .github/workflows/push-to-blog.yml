@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest 
 
     steps:
+      - name: Setup Git
+       uses: actions/checkout@v2
+       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
       - name: Clone Repo
         run: | 
           git clone https://github.com/blockhaity/blockhaity.github.io.git
