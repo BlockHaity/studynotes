@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Clone Repo
         run: | 
-          git clone https://github.com/blockhaity/clockhaity.github.io.git
+          git clone https://github.com/blockhaity/blockhaity.github.io.git
           git clone https://github.com/blockhaity/studynotes.git
       
       - name: Copy Files
