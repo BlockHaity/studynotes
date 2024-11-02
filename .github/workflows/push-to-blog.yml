@@ -31,4 +31,4 @@ jobs:
           git config --global user.name "github-actions[bot]" 
           git add .
           git commit -m "update blog"
-          git push origin main
+          git push origin main --force
