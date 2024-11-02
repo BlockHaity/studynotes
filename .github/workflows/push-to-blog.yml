@@ -12,15 +12,23 @@ jobs:
     steps:
       - name: Setup Git
         uses: actions/checkout@v2
-        with:
-         token: ${{ secrets.GITHUB_TOKEN }}
-         fetch-depth: 0
 
-      - name: Clone Repo
-        run: | 
-          git clone https://github.com/blockhaity/blockhaity.github.io.git
-          git clone https://github.com/blockhaity/studynotes.git
-      
+      - name: Clone Blog Repo
+        uses: actions/checkout@v2
+        with:
+         repository: blockhaity/blockhaity.github.io
+         ref: main
+         path: blockhaity.github.io
+         token: $ {{ secrets.GITHUB_TOKEN }}
+
+      - name: Clone Blog Repo
+        uses: actions/checkout@v2
+        with:
+         repository: blockhaity/studynotes
+         ref: main
+         path: studynotes
+         token: $ {{ secrets.GITHUB_TOKEN }}
+
       - name: Copy Files
         run:  |
           mkdir ./blockhaity.github.io/source/studynotes
