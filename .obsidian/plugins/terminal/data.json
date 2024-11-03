@@ -14,10 +14,10 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
-    "e1f26a61-26e6-4a96-a93e-a0dfcce1848b": {
+    "3e12cbbf-2824-4a96-8a9b-42dea74375f7": {
       "args": [],
       "executable": "/bin/zsh",
-      "name": "zsh",
+      "name": "ZSH",
       "platforms": {
         "darwin": false,
         "linux": true
@@ -30,6 +30,7 @@
         "SIGTERM"
       ],
       "terminalOptions": {
+        "fontFamily": "MesloLGS NF",
         "documentOverride": null
       },
       "type": "integrated",
